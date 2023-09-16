@@ -1,0 +1,15 @@
+seaborn
+tensorflow
+numpy
+torchvision
+anogan
+sklearn
+tqdm
+skimage
+pandas
+PIL
+torch
+keras
+matplotlib
+cv2
+xlwt

@@ -1,0 +1,26 @@
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+*.venv
+env/
+ENV/
+
+# Dataset files (can be modified based on specific needs)
+*.csv
+*.xlsx
+*.json
+
+# Miscellaneous
+.DS_Store
